@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 - 🔭 **Current Work**:  
-  - Developing **[MoodInsight](https://github.com/your-repo-link)**: A React-based mental health analysis SPA utilizing Google OAuth and Context API.  
+  - Developing **[MoodInsight]([https://github.com/your-repo-link](https://github.com/Kishan-prajapati-242/MoodInsight---depression-detection-on-Twitter-profile))**: A React-based mental health analysis SPA utilizing Google OAuth and Context API.  
 - 👯 **Collaboration Interests**:  
   - AI-powered web development and advanced React.js projects.  
 - 🌱 **Learning Path**:  
@@ -41,7 +41,7 @@
       <h3>MoodInsight</h3>
       <p>A web app that analyzes mental health based on static Twitter user data, offering suggestions for improvement through a chatbot and MADRS scale.</p>
       <p><strong>Tech Stack:</strong> React.js, Context API, Flask</p>
-      <a href="https://github.com/your-repo-link"><img src="https://img.shields.io/badge/Explore%20Project-%23008080?style=for-the-badge&logo=github" /></a>
+      <a href="[https://github.com/your-repo-link](https://github.com/Kishan-prajapati-242/MoodInsight---depression-detection-on-Twitter-profile)"><img src="https://img.shields.io/badge/Explore%20Project-%23008080?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="50%" align="center">
       <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="MoodInsight" />
@@ -52,7 +52,7 @@
       <h3>DevDetective</h3>
       <p>GitHub profile analyzer that retrieves repository details, stars, and more using the GitHub API.</p>
       <p><strong>Tech Stack:</strong> HTML, Tailwind CSS, JavaScript</p>
-      <a href="https://github.com/your-repo-link"><img src="https://img.shields.io/badge/Explore%20Project-%23008080?style=for-the-badge&logo=github" /></a>
+      <a href="[https://github.com/your-repo-link](https://github.com/Kishan-prajapati-242/DevDetective)"><img src="https://img.shields.io/badge/Explore%20Project-%23008080?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="50%" align="center">
       <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="DevDetective" />
@@ -81,9 +81,8 @@
 
 ### 🤝 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:kishanprajapati@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="kedin.com/in/kishan-prajapati-617a00202/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kishansp242@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
