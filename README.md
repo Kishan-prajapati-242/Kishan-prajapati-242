@@ -23,8 +23,14 @@
 
 ### 💼 Technical Expertise  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,py,flask,tailwind,git,github" alt="Skills" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="React" width="50" height="50" title="React"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Redux" width="50" height="50" title="Redux"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50" height="50" title="Git"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="GitHub" width="50" height="50" title="GitHub"/>
 </p>
+
 
 #### Areas of Focus:  
 - **Frontend Development**: React.js, GSAP, Tailwind CSS  
