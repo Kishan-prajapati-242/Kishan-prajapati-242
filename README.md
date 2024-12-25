@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 - 🔭 **Current Work**:  
-  - Developing **[MoodInsight]([https://github.com/your-repo-link](https://github.com/Kishan-prajapati-242/MoodInsight---depression-detection-on-Twitter-profile))**: A React-based mental health analysis SPA utilizing Google OAuth and Context API.  
+  - Developing **[MoodInsight]([https://github.com/your-repo-link](https://github.com/Kishan-prajapati-242/MoodInsight---depression-detection-on-Twitter-profile))**:
 - 👯 **Collaboration Interests**:  
   - AI-powered web development and advanced React.js projects.  
 - 🌱 **Learning Path**:  
