@@ -53,7 +53,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/UqZ2tltVwW1Yk/giphy.gif" width="200" alt="ATCTM"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ28wY3o4YXU0NnhqaDlsNnIzdmtyYnY1dzZxdmpsYmlyYnY0M290bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="200" alt="ATCTM"/>
     </td>
   </tr>
   <tr>
