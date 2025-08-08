@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kishan Prajapati</h1>
 <h3 align="center">Lead AI Researcher | Full-Stack Developer | NLP for Mental Health Advocate</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishan-prajapati-242&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
